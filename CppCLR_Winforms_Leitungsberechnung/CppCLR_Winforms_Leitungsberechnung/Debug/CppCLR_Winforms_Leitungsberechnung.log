@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+c:\users\jonat\desktop\lb\cppclr_winforms_leitungsberechnung\cppclr_winforms_leitungsberechnung\form1.h(1197): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  Form1.cpp
+  Code wird generiert...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  CppCLR_Winforms_Leitungsberechnung.vcxproj -> C:\Users\Jonat\Desktop\LB\CppCLR_Winforms_Leitungsberechnung\Debug\CppCLR_Winforms_Leitungsberechnung.exe
